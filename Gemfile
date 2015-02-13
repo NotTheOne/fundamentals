@@ -47,4 +47,4 @@ gem 'font-awesome-rails'
 
 gem 'simple_form'
 
-gem 'devise'
+gem 'devise', "~> 3.2.2"
