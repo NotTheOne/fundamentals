@@ -141,7 +141,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
-  devise (~> 3.2.2)
+  devise (~> 3.2.4)
   execjs (= 2.3.0)
   font-awesome-rails
   jbuilder (~> 2.0)
